@@ -7,14 +7,26 @@ Email: info@monkeymake.xyz
 http://www.linkedin.com/in/alanwhite
 
 ## Personal Statement
-I’m an experienced, passionate and talented front-end web developer specialising in Web Standards and Accessibility with a strong attention to detail and a good eye for design. With 17 years commercial experience in web development I have covered many bases and under many circumstances which include working in-house for an online shop, freelance CMS development, on site contracting, running my own conference and also in an agency environment working with blue chip clients. I have also spoken at web events and also universities.
+I’m an experienced, passionate and talented front-end web developer specialising in Web Standards and Accessibility with a strong attention to detail and a good eye for design. With 17 years commercial experience in web development I have covered many bases and under many circumstances which include working in-house for an online shop, freelance CMS development, on site contracting, running my own conference and also in an agency environment working with blue chip clients. I have also organise and have spoken at web events and also universities.
 
 ## Key Skills
-Keen awareness of industry trends, standards compliant code, accessibility auditing, blog customisation, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, BEM, JavaScript, JQuery, Handlebars, Patternlab.  Currently trying to learn more about React and also Vue.js so I can integrate with modern JS frameworks more efficiently.
+Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, BEM, JavaScript, JQuery, Handlebars, Patternlab.  Currently trying to learn more about React and also Vue.js so I can integrate with modern JS frameworks more efficiently.
 
 ## Experience
 
-### Nov 2014 - Present: G2G3
+### Sep 2017 - Present: Chairman - Web Matters - The industry body for the web in the UK
+
+Web Matters is a new, independent, member-driven industry association for those who create and work on the open web. I have been a key stakeholder in taking this from concept to now having an active membership whom we represent. Currently sitting as Chairperson and active in the steering committee.
+
+### Dec 2015 - Present: Web Consultant & Maker of Things - Monkey Make Ltd
+
+Independant web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries.  Regularly sub contracting doing front end development for clients and also doing some work in the 3D Printing/Maker space.
+
+### Apr 2015 - Nov 1015 - Contract Front End Developer - Realise
+
+Front development role focussing on delivery of front end templates for CMS integration.
+
+### Nov 2014 - Mar 2015: Contract Front End Developer - G2G3
 
 Worked within a multi discipline team creating accessible HTML prototypes with sprinklings of SVG and JavaScript. Under NDA I can’t disclose further information about the project.
 
@@ -35,7 +47,7 @@ Front end development role involving rapid development of HTML prototypes based 
 A senior front end developer role, responsible for the front end code base of a white label games delivery platform. I made performance enhancements to the front end and introduced new prototyping methodologies and technologies to the team.  Features were developed on a 2 week release cycle using SCRUM and CI.  Also worked on their game launcher which was based on a custom themed Bootstrap installation and Backbone.js, all delivered in an embeddable HTML5 environment on CD or via digital download.
 
 ### June 2008 – August 2011: Interface Developer - Tesco Bank
-Responsible for the Tesco Bank front end code base, developing standards and practices and constantly looking for ways to improve the end user experience. My primary role over the last year has been a key stakeholder in moving away from RBS as a technology platform to Tesco Bank architecture. I have been involved in all aspects of development from the technical side of things right through to the front end code and the details of how the CMS functions.
+Responsible for the Tesco Bank front end code base, developing standards and practices and constantly looking for ways to improve the end user experience. My primary role over the final year there was as a key stakeholder in moving away from RBS as a technology platform to Tesco Bank architecture. I have was involved in all aspects of development from the technical side of things right through to the front end code and the details of how the CMS functions.
 
 ### August 2006 – February 2011: Web Developer & Consultant - Alan White Web Development
 Acting as a sole trader I provided freelance services to agencies as well as providing web development services to an existing client base. The majority of the work I did was front end template development, I also provided bespoke blog and content management solutions. Key Clients: Headscape, Stuff & Nonsense, LBi, Mackerel Media.
@@ -64,12 +76,18 @@ Role involved various web production tasks as well as the development of an inte
 * 2009 - Texthelp Web Accessibility Day(Glasgow) - Talk title: Back to basics
 * 2008 - Guest Judge - Yahoo Hack Day @ Dundee University
 
-## Conferences attended
+## Events Organised
 
-* 2014 - The Highland Fling : Sessions (Conference Organiser)
-* 2011 - The Highland Fling - Back to basics  (Conference Organiser)
-* 2008 - The Highland Fling - The browser and beyond  (Conference Organiser)
-* 2007 - The Highland Fling - Progressive Enhancement  (Conference Organiser)
+* 2017 - The Highland Fling : Sessions - We're Professionalising (Event Co-Organiser)
+* 2017 - The Highland Fling : Sessions - Professionalism (Event Co-Organiser)
+* 2015 - The Highland Fling : Sessions - Progressive enhancement (Event Co-Organiser)
+* 2014 - The Highland Fling : Sessions (Event Co-Organiser)
+* 2011 - The Highland Fling - Back to basics  (Event Organiser)
+* 2008 - The Highland Fling - The browser and beyond  (Event Organiser)
+* 2007 - The Highland Fling - Progressive Enhancement  (Event Organiser)
+
+## Conferences attended
+* 2016 - ScotlandCSS
 * 2007 - BarCamp Brighton
 * 2007 - dConstruct
 * 2007 - BarCamp Scotland
@@ -86,7 +104,7 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Hobbies
 
-I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
+I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, fly drones, make stuff with clay, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
 
 ## References  *
 
