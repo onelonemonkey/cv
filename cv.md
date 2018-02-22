@@ -20,7 +20,7 @@ Web Matters is a new, independent, member-driven industry association for those 
 
 ### Dec 2015 - Present: Web Consultant & Maker of Things - Monkey Make Ltd
 
-Independant web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries.  Regularly sub contracting doing front end development for clients and also doing some work in the 3D Printing/Maker space.
+Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries.  Regularly sub contracting doing front end development for clients and also doing some work in the 3D Printing/Maker space.
 
 ### Apr 2015 - Nov 1015 - Contract Front End Developer - Realise
 
