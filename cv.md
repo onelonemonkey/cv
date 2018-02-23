@@ -16,7 +16,7 @@ Keen awareness of industry trends, standards compliant code, accessibility audit
 
 ### Sep 2017 - Present: Chairman - Web Matters - The industry body for the web in the UK
 
-Web Matters is a new, independent, member-driven industry association for those who create and work on the open web. I have been a key stakeholder in taking this from concept to now having an active membership whom we represent. Currently sitting as Chairperson and active in the steering committee.
+Web Matters is a new, independent, member-driven industry association for those who create and work on the open web. I have been a key stakeholder in taking this from concept to now having an active membership whom we represent. Currently volunteering/sitting as Chairperson and active in the steering committee.
 
 ### Dec 2015 - Present: Web Consultant & Maker of Things - Monkey Make Ltd
 
