@@ -16,16 +16,18 @@ Keen awareness of industry trends, standards compliant code, accessibility audit
 
 ### Dec 2015 - Present: Web Consultant & Maker of Things - Monkey Make Ltd
 
-Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries. 
+Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries, doing accessibility reviews and generally helping to improve code bases. 
 
 * Key clients : Realise, Digirati
 * Key projects :  Standard Life, NHS, Franklin Templeton
+* Core skills: HTML, Bootstrap, SASS, Grunt, Gulp, JavaScript, Patternlab, JSON, Mustache, BEM, ARIA, Accessibility
 
 ### Apr 2015 - Nov 1015 - Contract Front End Developer - Realise
 
 Front development role focussing on delivery of front end templates for CMS integration.  
 
 * Key projects - Stagecoach, Franklin Templeton.
+* Core skills: HTML, Bootstrap, SASS, Grunt, JavaScript, Mustache
 
 ### Nov 2014 - Mar 2015: Contract Front End Developer - G2G3
 
