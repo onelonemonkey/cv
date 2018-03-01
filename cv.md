@@ -14,17 +14,18 @@ Keen awareness of industry trends, standards compliant code, accessibility audit
 
 ## Experience
 
-### Sep 2017 - Present: Chairman - Web Matters - The industry body for the web in the UK
-
-Web Matters is a new, independent, member-driven industry association for those who create and work on the open web. I have been a key stakeholder in taking this from concept to now having an active membership whom we represent. Currently volunteering/sitting as Chairperson and active in the steering committee.
-
 ### Dec 2015 - Present: Web Consultant & Maker of Things - Monkey Make Ltd
 
-Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries.  Regularly sub contracting doing front end development for clients and also doing some work in the 3D Printing/Maker space.
+Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries. 
+
+* Key clients : Realise, Digirati
+* Key projects :  Standard Life, NHS, Franklin Templeton
 
 ### Apr 2015 - Nov 1015 - Contract Front End Developer - Realise
 
-Front development role focussing on delivery of front end templates for CMS integration.
+Front development role focussing on delivery of front end templates for CMS integration.  
+
+* Key projects - Stagecoach, Franklin Templeton.
 
 ### Nov 2014 - Mar 2015: Contract Front End Developer - G2G3
 
