@@ -4,7 +4,6 @@
 5 St David’s Court, Dalgety Bay, KY11 9SU  
 Telephone: 07595 372 886  
 Email: info@monkeymake.xyz  
-http://www.linkedin.com/in/alanwhite  
 
 ## Personal Statement
 I’m an experienced, passionate and talented front-end web developer specialising in web Standards and accessibility with a strong attention to detail and a good eye for design. With 17 years commercial experience in web development I have worked in a wide variety of roles with a primary focus on delivering standards compliant and accessible HTML, CSS and JavaScript.  As a strong advocate for best practices within the industry I have been running my own web development conference and events since 2007 and more recently I have been part of a steering committee to set up a new industry body in the UK called Web Matters (https://web-matters.co.uk).
@@ -109,8 +108,8 @@ Role involved various web production tasks as well as the development of an inte
 
 I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, fly drones, make stuff with clay, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
 
-## References  *
+## References 
 
-Available on request or via recommendations on LinkedIn.
+Available on request or via recommendations on [http://www.linkedin.com/in/alanwhite](LinkedIn).
 
 
