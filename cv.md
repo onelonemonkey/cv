@@ -25,7 +25,7 @@ Independent web consultant working for various clients, my primary focus is on i
 
 Front development role focussing on delivery of front end templates for CMS integration.  
 
-* Key projects - Stagecoach, Franklin Templeton.
+* Key projects - Greyhound, Franklin Templeton.
 * Core skills: HTML, Bootstrap, SASS, Grunt, JavaScript, Mustache
 
 ### Nov 2014 - Mar 2015: Contract Front End Developer - G2G3
