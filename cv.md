@@ -110,6 +110,6 @@ I am definitely a net geek that spends most of my time keeping up with RSS feeds
 
 ## References 
 
-Available on request or via recommendations on [http://www.linkedin.com/in/alanwhite](LinkedIn).
+Available on request or via recommendations on [LinkedIn](http://www.linkedin.com/in/alanwhite).
 
 
