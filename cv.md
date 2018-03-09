@@ -73,7 +73,6 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Speaking Engagements
 
-* 2014 - Conference host / Interviewer @ The Highland Fling : Sessions
 * 2012 - British Tech Network - The Web Show (Episodes 1,3)
 * 2010 - Texthelp Web Accessibility Day (Glasgow)
 * 2009 - Opera Software @ Dundee University - Talk title: Back to basics
@@ -82,10 +81,10 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Events Organised
 
-* 2017 - The Highland Fling : Sessions - We're Professionalising (Event Co-Organiser)
-* 2017 - The Highland Fling : Sessions - Professionalism (Event Co-Organiser)
-* 2015 - The Highland Fling : Sessions - Progressive enhancement (Event Co-Organiser)
-* 2014 - The Highland Fling : Sessions (Event Co-Organiser)
+* 2017 - The Highland Fling : Sessions - We're Professionalising (Conference host / Interviewer)
+* 2017 - The Highland Fling : Sessions - Professionalism (Conference host / Interviewer)
+* 2015 - The Highland Fling : Sessions - Progressive enhancement (Conference host / Interviewer)
+* 2014 - The Highland Fling : Sessions (Conference host / Interviewer)
 * 2011 - The Highland Fling - Back to basics  (Event Organiser)
 * 2008 - The Highland Fling - The browser and beyond  (Event Organiser)
 * 2007 - The Highland Fling - Progressive Enhancement  (Event Organiser)
