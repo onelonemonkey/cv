@@ -1,13 +1,14 @@
 
 # Alan White
 
-5 St David’s Court, Dalgety Bay, KY11 9SU
-Telephone: 07595 372 886
-Email: info@monkeymake.xyz
-http://www.linkedin.com/in/alanwhite
+5 St David’s Court, Dalgety Bay, KY11 9SU  
+Telephone: 07595 372 886  
+Email: info@monkeymake.xyz  
 
 ## Personal Statement
-I’m an experienced, passionate and talented front-end web developer specialising in Web Standards and Accessibility with a strong attention to detail and a good eye for design. With 17 years commercial experience in web development I have covered many bases and under many circumstances which include working in-house for an online shop, freelance CMS development, on site contracting, running my own conference and also in an agency environment working with blue chip clients. I have also organise and have spoken at web events and also universities.
+I’m an experienced, passionate front-end web developer specialising in web standards and accessibility. With 17 years commercial experience in web development I have worked in a wide variety of roles with a primary focus on delivering standards compliant and accessible HTML, CSS and JavaScript.  
+
+As a strong advocate for best practices within the industry I have been running [The Highland Fling - Web Standards in Scotland](http://thehighlandfling.com) since 2007 and more recently I have been part of a steering committee to set up a new industry body in the UK called [Web Matters](https://web-matters.co.uk). I pride myself on being a champion for end users, the code bases I work on, the industry I work in and the clients I work for.
 
 ## Key Skills
 Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, BEM, JavaScript, JQuery, Handlebars, Patternlab.  Currently trying to learn more about React and also Vue.js so I can integrate with modern JS frameworks more efficiently.
@@ -26,7 +27,7 @@ Independent web consultant working for various clients, my primary focus is on i
 
 Front development role focussing on delivery of front end templates for CMS integration.  
 
-* Key projects - Stagecoach, Franklin Templeton.
+* Key projects - Greyhound, Franklin Templeton.
 * Core skills: HTML, Bootstrap, SASS, Grunt, JavaScript, Mustache
 
 ### Nov 2014 - Mar 2015: Contract Front End Developer - G2G3
@@ -72,7 +73,6 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Speaking Engagements
 
-* 2014 - Conference host / Interviewer @ The Highland Fling : Sessions
 * 2012 - British Tech Network - The Web Show (Episodes 1,3)
 * 2010 - Texthelp Web Accessibility Day (Glasgow)
 * 2009 - Opera Software @ Dundee University - Talk title: Back to basics
@@ -81,10 +81,10 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Events Organised
 
-* 2017 - The Highland Fling : Sessions - We're Professionalising (Event Co-Organiser)
-* 2017 - The Highland Fling : Sessions - Professionalism (Event Co-Organiser)
-* 2015 - The Highland Fling : Sessions - Progressive enhancement (Event Co-Organiser)
-* 2014 - The Highland Fling : Sessions (Event Co-Organiser)
+* 2017 - The Highland Fling : Sessions - We're Professionalising (Conference host / Interviewer)
+* 2017 - The Highland Fling : Sessions - Professionalism (Conference host / Interviewer)
+* 2015 - The Highland Fling : Sessions - Progressive enhancement (Conference host / Interviewer)
+* 2014 - The Highland Fling : Sessions (Conference host / Interviewer)
 * 2011 - The Highland Fling - Back to basics  (Event Organiser)
 * 2008 - The Highland Fling - The browser and beyond  (Event Organiser)
 * 2007 - The Highland Fling - Progressive Enhancement  (Event Organiser)
@@ -109,8 +109,8 @@ Role involved various web production tasks as well as the development of an inte
 
 I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, fly drones, make stuff with clay, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
 
-## References  *
+## References 
 
-Available on request or via recommendations on LinkedIn.
+Available on request or via recommendations on [LinkedIn](http://www.linkedin.com/in/alanwhite).
 
 
