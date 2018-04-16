@@ -107,7 +107,7 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Hobbies
 
-I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, fly drones, make stuff with clay, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
+Outside of making the web, when I'm not having fun with my kids, I like to spend my time dabbling in 3D printing, flying drones, making things out of clay and I also mess around making music.  After moving home I'm also keen to become an expert at Kettle BBQ cooking. None of these things mentioned are mutually exclusive.
 
 ## References 
 
