@@ -6,12 +6,12 @@ Telephone: 07595 372 886
 Email: info@monkeymake.xyz  
 
 ## Personal Statement
-I’m an experienced, passionate front-end web developer specialising in web standards and accessibility. With 17 years commercial experience in web development I have worked in a wide variety of roles with a primary focus on delivering standards compliant and accessible HTML, CSS and JavaScript.  
+I’m an experienced, passionate interface/front-end developer specialising in web standards and accessibility. With 18 years commercial experience in web development I have worked in a wide variety of roles with a primary focus on delivering standards compliant, scalable and accessible HTML, CSS and JavaScript.  
 
 As a strong advocate for best practices within the industry I have been running [The Highland Fling - Web Standards in Scotland](http://thehighlandfling.com) since 2007 and more recently I have been part of a steering committee to set up a new industry body in the UK called [Web Matters](https://web-matters.co.uk). I pride myself on being a champion for end users, the code bases I work on, the industry I work in and the clients I work for.
 
 ## Key Skills
-Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, BEM, JavaScript, JQuery, Handlebars, Patternlab.  Currently trying to learn more about React and also Vue.js so I can integrate with modern JS frameworks more efficiently.
+Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, OOCSS, BEM, JavaScript, JQuery, Handlebars, Patternlab, Grunt.  Currently up-skilling around Webpack, ES6 and React via Udemy courses.
 
 ## Experience
 
@@ -107,7 +107,7 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Hobbies
 
-I am definitely a net geek that spends most of my time keeping up with RSS feeds, attending meetups and learning new techniques but when I switch off I like to spend time with my family, fly drones, make stuff with clay, snowboard, record music, skate mini ramps, watch films or play a decent game on one of my many consoles.
+Outside of making the web, when I'm not having fun with my kids, I like to spend my time dabbling in 3D printing, flying drones, making things out of clay and I also mess around making music.  After moving home I'm also keen to become an expert at Kettle BBQ cooking. None of these things mentioned are mutually exclusive.
 
 ## References 
 
