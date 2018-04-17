@@ -6,12 +6,12 @@ Telephone: 07595 372 886
 Email: info@monkeymake.xyz  
 
 ## Personal Statement
-I’m an experienced, passionate interface/front-end developer specialising in web standards and accessibility. With 18 years commercial experience in web development I have worked in a wide variety of roles with a primary focus on delivering standards compliant, scalable and accessible HTML, CSS and JavaScript.  
+I’m a passionate interface/front-end developer with a diverse 18 years experience specialising in web standards and accessibility. Comfortable both working in distributed global teams or mixing it up in the daily scrum in a breakout, a good communicator that loves to come up with new ideas.  Scalability and performance rank high on my agenda and building systems over pages will always be a priority.
 
-As a strong advocate for best practices within the industry I have been running [The Highland Fling - Web Standards in Scotland](http://thehighlandfling.com) since 2007 and more recently I have been part of a steering committee to set up a new industry body in the UK called [Web Matters](https://web-matters.co.uk). I pride myself on being a champion for end users, the code bases I work on, the industry I work in and the clients I work for.
+As a strong advocate for best practices within the industry I have been running [The Highland Fling - Web Standards in Scotland](http://thehighlandfling.com) since 2007 and more recently I have been part of the steering committee setting up the new industry body for web in the UK called [Web Matters](https://web-matters.co.uk). I pride myself on being a champion for end users, the code bases I work on, the industry I work in and the clients I work for.
 
 ## Key Skills
-Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, OOCSS, BEM, JavaScript, JQuery, Handlebars, Patternlab, Grunt.  Currently up-skilling around Webpack, ES6 and React via Udemy courses.
+Keen awareness of industry trends, standards compliant code, accessibility auditing, good client facing skills, good understanding of user requirements, good at developing new ideas, ability to carry a project from concept to completion. HTML5, CSS, SASS, LESS, OOCSS, BEM, JavaScript, JQuery, Handlebars, Patternlab, Grunt.  Currently up-skilling around Webpack, ES6, React and Angular via Udemy courses.
 
 ## Experience
 
