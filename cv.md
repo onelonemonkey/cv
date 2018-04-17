@@ -107,7 +107,7 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Hobbies
 
-Outside of making the web, when I'm not having fun with my kids, I like to spend my time dabbling in 3D printing, flying drones, making things out of clay and I also mess around making music.  After moving home I'm also keen to become an expert at Kettle BBQ cooking. None of these things mentioned are mutually exclusive.
+Outside of making the web, when I'm not having fun with my kids, I like to spend my time dabbling in 3D printing, flying drones, I also mess around making music. I've also started a new experiment called [Claydates](https://claydates.co.uk) to disconnect from technology and spend more time with people. None of these things mentioned are mutually exclusive.
 
 ## References 
 
