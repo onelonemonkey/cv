@@ -6,7 +6,9 @@ Telephone: 07595 372 886
 Email: info@monkeymake.xyz  
 
 ## Personal Statement
-I’m a passionate interface/front-end developer with a diverse 18 years career specialising in web standards and accessibility. Comfortable both working in distributed global teams or mixing it up in the daily scrum in a breakout and a good communicator that loves to come up with new ideas.  Scalability and performance rank high on my agenda and building systems over pages will always be a priority.
+I’m a passionate interface/front-end developer with a diverse 18 years career specialising in web standards and accessibility. 
+
+Comfortable both working in distributed global teams or mixing it up in the daily scrum in a breakout and a good communicator that loves to come up with new ideas.  Scalability and performance rank high on my agenda and building systems over pages will always be a priority.
 
 As a strong advocate for best practices within the industry I've been running [The Highland Fling - Web Standards in Scotland](http://thehighlandfling.com) since 2007 and more recently got involved in the steering committee setting up a new industry body for web in the UK called [Web Matters](https://web-matters.co.uk). I pride myself on being a champion for end users, the code bases I work on, the industry I work in and the clients I work for.
 
