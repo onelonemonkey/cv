@@ -76,7 +76,7 @@ Role involved various web production tasks as well as the development of an inte
 * 2012 - British Tech Network - The Web Show (Episodes 1,3)
 * 2010 - Texthelp Web Accessibility Day (Glasgow)
 * 2009 - Opera Software @ Dundee University - Talk title: Back to basics
-* 2009 - Texthelp Web Accessibility Day(Glasgow) - Talk title: Back to basics
+* 2009 - Texthelp Web Accessibility Day (Glasgow) - Talk title: Back to basics
 * 2008 - Guest Judge - Yahoo Hack Day @ Dundee University
 
 ## Events Organised
