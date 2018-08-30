@@ -23,7 +23,7 @@ Keen awareness of industry trends, standards compliant code, accessibility audit
 
 Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries, doing accessibility reviews and generally helping to improve code bases. 
 
-* Key clients : Realise, Digirati, Royal London
+* Key clients : Amaze Realise, Digirati, Royal London
 * Key projects :  Standard Life, NHS, Franklin Templeton, Royal London
 * Core skills: HTML, Bootstrap, SASS, Grunt, Gulp, JavaScript, Patternlab, JSON, Mustache, BEM, ARIA, Accessibility
 
