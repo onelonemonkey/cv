@@ -85,10 +85,10 @@ Role involved various web production tasks as well as the development of an inte
 
 ## Events Organised
 
-* 2017 - The Highland Fling : Sessions - We're Professionalising (Event host / Interviewer)
-* 2017 - The Highland Fling : Sessions - Professionalism (Event host / Interviewer)
-* 2015 - The Highland Fling : Sessions - Progressive enhancement (Event host / Interviewer)
-* 2014 - The Highland Fling : Sessions (Event host / Interviewer)
+* 2017 - The Highland Fling : Sessions - We're Professionalising (Organiser & Host/Interviewer)
+* 2017 - The Highland Fling : Sessions - Professionalism (Organiser & Host/Interviewer)
+* 2015 - The Highland Fling : Sessions - Progressive enhancement (Organiser & Host/Interviewer)
+* 2014 - The Highland Fling : Sessions (Organiser & Host/Interviewer)
 * 2011 - The Highland Fling - Back to basics  (Event Organiser)
 * 2008 - The Highland Fling - The browser and beyond  (Event Organiser)
 * 2007 - The Highland Fling - Progressive Enhancement  (Event Organiser)
