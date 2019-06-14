@@ -23,9 +23,9 @@ Keen awareness of industry trends, standards compliant code, accessibility audit
 
 Independent web consultant working for various clients, my primary focus is on improving front end development practises alongside developing scalable interfaces and pattern libraries, doing accessibility reviews and generally helping to improve code bases. 
 
-* Key clients : Amaze Realise, Digirati, Royal London
-* Key projects :  Standard Life, NHS, Franklin Templeton, Royal London
-* Core skills: HTML, Bootstrap, SASS, Grunt, Gulp, JavaScript, Patternlab, JSON, Mustache, BEM, ARIA, Accessibility
+* Key clients : Wood Mackenzie, Amaze Realise, Digirati, Royal London
+* Key projects :  Wood Mackenzie, Standard Life, NHS, Franklin Templeton, Royal London
+* Core skills: HTML, Bootstrap, SASS, Emotion, React (Front end), Grunt, Gulp, JavaScript, Patternlab, JSON, Mustache, BEM, ARIA, Accessibility
 
 ### Apr 2015 - Nov 1015 - Contract Front End Developer - Realise
 
